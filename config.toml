@@ -1,0 +1,4 @@
+baseURL = 'https://martin.vet/'
+languageCode = 'en-us'
+title = 'Martin McDowell locuming'
+theme = "mainroad"
