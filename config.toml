@@ -1,6 +1,6 @@
 baseURL = 'https://martin.vet/'
 languageCode = 'en-us'
-title = 'Martin McDowell locuming'
+title = 'Martin McDowell vet locum'
 theme = "mainroad"
 googleAnalytics = "UA-90315878-1" # Enable Google Analytics by entering your tracking id
 
@@ -13,7 +13,7 @@ googleAnalytics = "UA-90315878-1" # Enable Google Analytics by entering your tra
   subtitle = "Providing locum services to veterinary practices around the UK." # Deprecated in favor of .Site.Params.logo.subtitle
   #description = "Locum veterinary surgeon for companion animals" # Site description. Used in meta description
   description = "Providing locum services to veterinary practices around the UK." # Site description. Used in meta description 
-  copyright = "Pet Doc Martin Ltd." # Footer copyright holder, otherwise will use site title
+  copyright = "Martin.vet ltd." # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   twitter_cards = false # Enable Twitter Cards if true
@@ -22,28 +22,29 @@ googleAnalytics = "UA-90315878-1" # Enable Google Analytics by entering your tra
   toc = true # Enable Table of Contents
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
-  mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  # mainSections = ["index", "posts", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  mainSections = ["index"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "2006-01-02" # Change the format of dates
   mathjax = false # Enable MathJax
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
-  googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
+  #googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans" # Load Google Fonts
   highlightColor = "" # Deprecated in favor of .Site.Params.style.vars.highlightColor
   customCSS = ["css/custom.css"] # Include custom CSS files
   customJS = ["js/custom.js"] # Include custom JS files
 
 [Params.style.vars]
-  highlightColor = "#e22d30" # Override highlight color
-
+  #highlightColor = "#e22d30" # Override highlight color
+  highlightColor = "#d38412" # Override highlight color
   # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
   # Take care of different quotes OR escaping symbols in these params if necessary
-  fontFamilyPrimary = "Roboto, 'Open Sans', Arial, sans-serif"
+  fontFamilyPrimary = "Roboto, 'Open Sans', Arial"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
   image = "img/martin-vet-square1.ai.svg" # Logo image. Path relative to "static"
-  title = "" # Logo title, otherwise will use site title
-  subtitle = "Locum veterinary surgeon for companion animals" # Logo subtitle
+  title = "Martin McDowell MRCVS" # Logo title, otherwise will use site title
+  subtitle = "Small animal locum vet" # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
@@ -98,18 +99,18 @@ googleAnalytics = "UA-90315878-1" # Enable Google Analytics by entering your tra
     post = ""
     pre = "<i class='fa fa-road'></i>"
     url = "/about/"
-    weight = -500
+    weight = -400
     
   [[menu.main]]
     name = "Skills matrix"
     post = ""
     pre = "<i class='fa fa-road'></i>"
     url = "/skills-matrix/"
-    weight = -400
+    weight = -300
 
   [[menu.main]]
     name = "Book me"
     post = ""
     pre = "<i class='fa fa-road'></i>"
     url = "/book-me/"
-    weight = -400
+    weight = -200

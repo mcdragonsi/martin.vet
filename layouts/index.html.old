@@ -1,0 +1,17 @@
+{{ define "main" }}
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<!-- <h3 class="post__title">{{ .Title }}</h3> -->
+			<h3 class="post__title">{{ .Title }}</h3>
+		</header>
+		{{ partial "post_thumbnail.html" }}
+		{{ partial "post_thumbnail.html" (dict "index" "post" "page" .) }}
+		{{- partial "post_toc.html" . -}}
+		<div class="content post__content clearfix">
+			{{ .Content }}
+		</div>
+	</article>
+</main>
+
+{{ end }}
