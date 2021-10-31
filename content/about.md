@@ -24,3 +24,5 @@ I am have gained the **ISFM Advanced Certificate in Feline Behaviour (ISFM AdvCe
 
 ## Associated locum agency
 If you would like to book me through a more established locum agency, please contact *Trisha Smith* at [Vets2Go](https://www.vets2go.co.uk/) (01280 706679). She has known me since I started locuming and she has one of the most extensive experiences in locum agency work. Extra agency fees apply.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6a01ee8f-ce8f-46ee-9e81-9ce11e00c42a/deploy-status)](https://app.netlify.com/sites/martinvet/deploys)
