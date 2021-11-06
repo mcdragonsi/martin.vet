@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://martin.vet/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Skills matrix</title>
+      <link>https://martin.vet/skills-matrix/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin.vet/skills-matrix/</guid>
+      <description>Basic skills    Basic skills      Medical work up hepatic/renal cases 4   15 minute consults 4   10 minute consults 4   5 minute consults 1       Diagnostic and monitoring techniques    Ultrasound scans (abdomen) 4   Ultrasound scans (thorax) 2   Blood smear evaluation 2   Interpretation of coagulation abnormalities (e.</description>
+    </item>
+    
+    <item>
       <title>My Second Post</title>
       <link>https://martin.vet/posts/my-second-post/</link>
       <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
@@ -35,15 +44,6 @@ I am have gained the ISFM Advanced Certificate in Feline Behaviour (ISFM AdvCert
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://martin.vet/book-me/</guid>
-      <description>My name is Martin and I started this blog in about 2006. The OK Go post was my very first. It was on Google&amp;rsquo;s platform Blogger. I then migrated to Wordpress on different service providers: Bluehost, Webhosting UK and OVH. I finally broke free of Worpdress and moved to a static website platform. Hugo in this case. The CDN is hosted by Netlify, the photos are hosted on AWS S3 and the domain managed by Cloudflare.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://martin.vet/skills-matrix/</link>
-      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://martin.vet/skills-matrix/</guid>
       <description>My name is Martin and I started this blog in about 2006. The OK Go post was my very first. It was on Google&amp;rsquo;s platform Blogger. I then migrated to Wordpress on different service providers: Bluehost, Webhosting UK and OVH. I finally broke free of Worpdress and moved to a static website platform. Hugo in this case. The CDN is hosted by Netlify, the photos are hosted on AWS S3 and the domain managed by Cloudflare.</description>
     </item>
     
