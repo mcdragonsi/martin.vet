@@ -12,8 +12,7 @@ menu: main # Optional, add page to a menu. Options: main, side, footer
 | 15 minute consults                                                                                                                     | 4 |
 | 10 minute consults                                                                                                                     | 4 |
 | 5 minute consults                                                                                                                      | 1 |
-|                                                                                                                                        |   |
-| Diagnostic and monitoring techniques                                                                                                   |   |
+| Diagnostic and monitoring techniques                                                                                                   | 4 |
 | Ultrasound scans (abdomen)                                                                                                             | 4 |
 | Ultrasound scans (thorax)                                                                                                              | 2 |
 | Blood smear evaluation                                                                                                                 | 2 |
