@@ -18,8 +18,8 @@ I am have gained the **ISFM Advanced Certificate in Feline Behaviour (ISFM AdvCe
 * I have also been involved with the WVS in January 2015 with veterinary voluntary work at the [Carriacou Animal Hospital](https://blog.mcdowell.si/categories/carriacou-2015/).
 * I'm {{% years-till-today 1972 %}} years old.
 
-## Previous full time emplyment
-* [Bromyard Vets](https://bromyardvets.co.uk/) December 2019 - February 2022
+## Previous / current full time employment
+* [Bromyard Vets](https://bromyardvets.co.uk/) December 2019 - Current
 * [Fenton Vets](https://fentonvets.co.uk/) April 2007 - December 2011
 
 [![RCVS certifcate](/img/MRCVS-certificate-213x300.jpg)](https://img.mcdowell.si/MRCVS-certificate.jpg)
