@@ -10,5 +10,3 @@ If you would require my locum services or would like more information, please ge
 
 ### Experience
 I have 14 years of experience in practising small animal veterinary medicine both in the UK and abroad. I worked for 5 years in a small animal practice in Wales until 2012, after which I started locuming full-time across the UK.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6a01ee8f-ce8f-46ee-9e81-9ce11e00c42a/deploy-status)](https://app.netlify.com/sites/martinvet/deploys)
