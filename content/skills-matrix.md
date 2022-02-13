@@ -35,8 +35,8 @@ menu: main # Optional, add page to a menu. Options: main, side, footer
 | Thoracostomy tube placement                                                                                                            | 2 |
 | Basic cardiopulmonary resuscitation                                                                                                    | 4 |
 
-## Surgery
-| Surgery                                                                                                                                |   |
+## Routine surgery
+| Routine surgery                                                                                                                        |   |
 | -------------------------------------------------------------------------------------------------------------------------------------- | - |
 | Cat castrate                                                                                                                           | 4 |
 | Cat spay                                                                                                                               | 4 |
@@ -44,19 +44,25 @@ menu: main # Optional, add page to a menu. Options: main, side, footer
 | Bitch spay                                                                                                                             | 4 |
 | Rabbit castrate                                                                                                                        | 4 |
 | Rabbit spay                                                                                                                            | 4 |
+| Ferret spay                                                                                                                            | 4 |
+| Ferret castrate                                                                                                                        | 4 |
+
+## Advanced surgery
+| Advanced surgery                                                                                                                       |   |
+| -------------------------------------------------------------------------------------------------------------------------------------- | - |
+| Exploratory laparotomy / Coeliotomy                                                                                                    | 4 |
 | Pyometra                                                                                                                               | 4 |
 | Cystotomy                                                                                                                              | 4 |
 | Enterectomy                                                                                                                            | 4 |
 | Lumpectomy                                                                                                                             | 4 |
-| Caesarean                                                                                                                              | 4 |
-| Dental extractions                                                                                                                     | 4 |
+| Oral surgery / dental extractions                                                                                                      | 4 |
 | GDV operation                                                                                                                          | 3 |
-| Eye enucleation                                                                                                                        | 4 |
+| Eye enucleation  / exenteration                                                                                                        | 4 |
 | Using Vicryl, Monocryl, PDS                                                                                                            | 4 |
 | Using catgut                                                                                                                           | 1 |
 | Caesarean section                                                                                                                      | 4 |
 | Exploratory laparotomy for acute abdominal disease                                                                                     | 4 |
-| Splenetctomy                                                                                                                           | 4 |
+| Splenectomy                                                                                                                            | 4 |
 | With gastric derotation and gastropexy                                                                                                 | 3 |
 | Enterotomy / enterectomy                                                                                                               | 4 |
 | Repair of diaphragmatic hernia                                                                                                         | 2 |
