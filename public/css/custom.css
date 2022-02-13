@@ -48,7 +48,6 @@
 }
 
 /* Forms */
-
 input[type=text]:hover,
 input[type=email]:hover,
 input[type=tel]:hover,
@@ -58,19 +57,17 @@ textarea:hover {
     opacity: 1;
 }
 
-input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-    color: pink;
-  }
-
-input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-    color: red;
+::placeholder {
+    color: #3a4d5c;
     opacity: 1; /* Firefox */
   }
   
   :-ms-input-placeholder { /* Internet Explorer 10-11 */
-    color: red;
+   color: #3a4d5c;
   }
   
   ::-ms-input-placeholder { /* Microsoft Edge */
-    color: red;
+   color: #3a4d5c;
   }
+
+
