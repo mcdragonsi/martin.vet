@@ -5,7 +5,7 @@ draft: false
 sidebar: true
 menu: side # Optional, add page to a menu. Options: main, side, footer
 ---
-My name is **Martin McDowell DrVetMed ISFM AdvCertFB MRCVS** and I am a fully qualified veterinary surgeon in Herefordshire, UK. I have also been involved with the WVS in January 2015 with veterinary voluntary work at the Carriacou Animal Hospital. Read more on my personal blog here →
+My name is **Martin McDowell DrVetMed ISFM AdvCertFB MRCVS** and I am a fully qualified veterinary surgeon in Herefordshire, UK. I have also been involved with the WVS in January 2015 with veterinary voluntary work at the Carriacou Animal Hospital. Read more on my [personal blog](https://blog.mcdowell.si/).
 
 I am have gained the **ISFM Advanced Certificate in Feline Behaviour (ISFM AdvCertFB)** with distinction.
 
@@ -18,9 +18,11 @@ I am have gained the **ISFM Advanced Certificate in Feline Behaviour (ISFM AdvCe
 * I have also been involved with the WVS in January 2015 with veterinary voluntary work at the [Carriacou Animal Hospital](https://blog.mcdowell.si/categories/carriacou-2015/).
 * I'm {{% years-till-today 1972 %}} years old.
 
-## Previous / current full time employment
-* [Bromyard Vets](https://bromyardvets.co.uk/) December 2019 - Current
+## Previous / current full-time veterinary employment
+* [Bromyard Vets](https://bromyardvets.co.uk/) December 2019 - August 2022
 * [Fenton Vets](https://fentonvets.co.uk/) April 2007 - December 2011
+
+Full CV available on request. 
 
 [![RCVS certifcate](/img/MRCVS-certificate-213x300.jpg)](https://img.mcdowell.si/MRCVS-certificate.jpg)
 
