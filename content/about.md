@@ -11,8 +11,8 @@ I am have gained the **ISFM Advanced Certificate in Feline Behaviour (ISFM AdvCe
 
 * RCVS No. [6441157](https://findavet.rcvs.org.uk/find-a-vet-surgeon/martin-mcdowell-6441157/)
 * Professional career: {{% years-till-today 1998 %}} years
-  * Years practicing as a veterinary surgeon: {{% years-till-today 2005 %}}
-  * Years in Pharma/Gov/IT: 7 years
+  * Practicing as a veterinary surgeon: {{% years-till-today 2005 %}} years
+  * Working in Pharma/Gov/IT: 7 years
 * Skill areas covered: small (companion) animals both in the UK and abroad
 * I am have gained the [ISFM Advanced Certificate in Feline Behaviour](https://icatcare.org/event/isfm-advanced-feline-behaviour/) (**ISFM AdvCertFB**) with distinction in November 2019
 * I have also been involved with the WVS in January 2015 with veterinary voluntary work at the [Carriacou Animal Hospital](https://blog.mcdowell.si/categories/carriacou-2015/).
