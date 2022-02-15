@@ -6,7 +6,6 @@ sidebar: true
 #menu: main # Optional, add page to a menu. Options: main, side, footer
 ---
 ## Basic skills
-{{<table "table table-striped table-bordered">}}
 | Basic skills                                                                                                                           |   |
 | -------------------------------------------------------------------------------------------------------------------------------------- | - |
 | Medical work up hepatic/renal cases                                                                                                    | 4 |
@@ -22,7 +21,6 @@ sidebar: true
 | ECG interpretation                                                                                                                     | 2 |
 | Non-invasive blood pressure measurement (Doppler or oscillometric)                                                                     | 4 |
 | Full neurological examination and localisation of neurological lesions                                                                 | 4 |
-{{</table>}}
 
 ## Emergency medicine
 | Emergency medicine                                                                                                                     |   |

@@ -51,7 +51,18 @@ table {
     width:100%;
 }
 
-/* This is to remove the extra lines in the paragraph tah inside lists */
+/*
+This will stripe all tables
+tr:nth-child(even) {
+    background-color: #f2f2f2b6;
+}
+*/
+/* This will highlight rows on mouseover */
+tr:hover {
+    background-color: #f2f2f2b6;
+}
+
+/* This is to remove the extra lines in the paragraph tag inside lists */
 li p {
     margin-top: 0px;
     margin-right: 0px;
