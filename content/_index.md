@@ -5,7 +5,11 @@ draft: false
 sidebar: true
 ---
 {{< rawhtml >}}
-  <img src="/img/martin-tawnyowl_300x400.jpg" alt="Martin holding a rescued tawny owl" style="float: right; margin-right: 0px;">
+<div class="image-block">
+  <figure class="md__image">
+    <img src="/img/martin-tawnyowl_300x400.jpg" alt="Martin holding a rescued tawny owl" style="width: 40%; height: auto;float: right; margin-right: 0px;">
+  </figure>
+</div>
 {{< /rawhtml >}}
 
 I’m **Martin McDowell DrVetMed**, an experienced small animal veterinary surgeon offering vet locum services round the UK but preferably in Herefordshire, Gloucestershire, Worcestershire, Shropshire and south-east Wales.
