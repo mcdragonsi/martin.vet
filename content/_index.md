@@ -7,7 +7,7 @@ sidebar: true
 {{< rawhtml >}}
 <div class="image-block">
   <figure class="md__image">
-    <img src="/img/martin-tawnyowl_300x400.jpg" alt="Martin holding a rescued tawny owl" style="width: 40%; height: auto;float: right; margin-right: 0px;">
+    <img src="/img/martin-tawnyowl.jpg" alt="Martin holding a rescued tawny owl" style="width: 40%; height: auto;float: right; margin-right: 0px;">
   </figure>
 </div>
 {{< /rawhtml >}}
