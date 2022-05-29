@@ -4,6 +4,10 @@ date: 2021-10-17
 draft: false
 sidebar: true
 ---
+{{< rawhtml >}}
+  <img src="/img/martin-tawnyowl_300x400.jpg" alt="Martin holding a rescued tawny owl" style="float: right; margin-right: 0px;">
+{{< /rawhtml >}}
+
 I’m **Martin McDowell DrVetMed**, an experienced small animal veterinary surgeon offering vet locum services round the UK but preferably in Herefordshire, Gloucestershire, Worcestershire, Shropshire and south-east Wales.
 
 If you would require my locum services or would like more information, please get in touch with me through the contact form or directly via my email me@martin.vet. My CV and references are available on request.

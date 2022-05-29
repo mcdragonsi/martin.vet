@@ -8,7 +8,7 @@ menu: side # Optional, add page to a menu. Options: main, side, footer
 My name is **Martin McDowell DrVetMed ISFM AdvCertFB MRCVS** and I am a fully qualified veterinary surgeon in Herefordshire, UK.
 
 {{< rawhtml >}}
-  <img src="/img/martin-tawnyowl_200x267.jpg" alt="Martin holding a rescued tawny owl" style="float: right; margin-right: 15px;">
+  <img src="/img/martin-tawnyowl_200x267.jpg" alt="Martin holding a rescued tawny owl" style="float: right; margin-right: 0px;">
 {{< /rawhtml >}}
 
 * RCVS No. [6441157](https://findavet.rcvs.org.uk/find-a-vet-surgeon/martin-mcdowell-6441157/)
