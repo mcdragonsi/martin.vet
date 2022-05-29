@@ -5,18 +5,20 @@ draft: false
 sidebar: true
 menu: side # Optional, add page to a menu. Options: main, side, footer
 ---
-My name is **Martin McDowell DrVetMed ISFM AdvCertFB MRCVS** and I am a fully qualified veterinary surgeon in Herefordshire, UK. I have also been involved with the WVS in January 2015 with veterinary voluntary work at the Carriacou Animal Hospital. Read more on my [personal blog](https://blog.mcdowell.si/).
+My name is **Martin McDowell DrVetMed ISFM AdvCertFB MRCVS** and I am a fully qualified veterinary surgeon in Herefordshire, UK.
 
-I am have gained the **ISFM Advanced Certificate in Feline Behaviour (ISFM AdvCertFB)** with distinction.
+{{< rawhtml >}}
+  <img src="/img/martin-tawnyowl_200x267.jpg" alt="Martin holding a rescued tawny owl" style="float: right; margin-right: 15px;">
+{{< /rawhtml >}}
 
 * RCVS No. [6441157](https://findavet.rcvs.org.uk/find-a-vet-surgeon/martin-mcdowell-6441157/)
 * Professional career: {{% years-till-today 1998 %}} years
   * Practicing as a veterinary surgeon: {{% years-till-today 2005 %}} years
   * Working in Pharma/Gov/IT: 7 years
 * Skill areas covered: small (companion) animals both in the UK and abroad
-* I have gained the [ISFM Advanced Certificate in Feline Behaviour](https://icatcare.org/event/isfm-advanced-feline-behaviour/) (**ISFM AdvCertFB**) with distinction in November 2019
-* I have also been involved with the WVS in January 2015 with veterinary voluntary work at the [Carriacou Animal Hospital](https://blog.mcdowell.si/categories/carriacou-2015/).
-* I'm {{% years-till-today 1972 %}} years old.
+* I have gained the **ISFM Advanced Certificate in Feline Behaviour (ISFM AdvCertFB)** with distinction in November 2019.
+* I was involved with the WVS in January 2015 with veterinary voluntary work at the [Carriacou Animal Hospital](https://blog.mcdowell.si/categories/carriacou-2015/).
+* I'm about {{% years-till-today 1972 %}} years old.
 
 ## Previous / current full-time veterinary employment
 * [Bromyard Vets](https://bromyardvets.co.uk/) December 2019 - August 2022
