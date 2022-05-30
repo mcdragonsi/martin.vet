@@ -3,6 +3,7 @@ title: Skills matrix
 date: 2021-11-06
 draft: false
 sidebar: true
+toc: true # Enable Table of Contents
 #menu: main # Optional, add page to a menu. Options: main, side, footer
 ---
 ## Basic skills
