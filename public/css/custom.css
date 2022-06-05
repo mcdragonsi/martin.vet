@@ -80,6 +80,12 @@ textarea:hover {
     opacity: 1;
 }
 
+textarea {
+    width: 60%;
+    font-size: 12px;
+    height: 150px;
+}
+
 ::placeholder {
     color: #3a4d5c;
     opacity: 1; /* Firefox */
