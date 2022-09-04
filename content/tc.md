@@ -12,6 +12,6 @@ I do not accept cheques.
 
 Please pay by BACS to the **Pet Doc Martin 2** business bank account stated on the invoice.
 
-Bank: Monzo Business
-Sort code: 04-00-04
-Account number: 45947315
+Bank: Monzo Business  
+Sort code: 04-00-04  
+Account number: 45947315  
