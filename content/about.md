@@ -27,6 +27,10 @@ Full CV available on request.
 
 [![RCVS certifcate](/img/MRCVS-certificate-213x300.jpg)](https://img.mcdowell.si/MRCVS-certificate.jpg)
 
+## Correspondence address
+* **for letters:** Unit 108689, PO Box 6945, London, W1A 6US  
+* **for parcels and courier deliveries:** Unit 108689, Courier Point, 13 Freeland Park, Wareham Road, Poole, Dorset, BH16 6FH, UK
+
 ## Associated locum agency
 If you would like to book me through a more established locum agency, please contact *Trisha Smith* at [Vets2Go](https://www.vets2go.co.uk/) (01280 706679). She has known me since I started locuming {{% years-till-today 2012 %}} years ago in 2012 and she has one of the most extensive experiences in locum agency work. Extra agency fees apply.
 
