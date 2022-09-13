@@ -5,7 +5,8 @@
 .logo__title, H1 {
     font-size: 46px;
     font-weight: 100;
-    color: #3a4d5c;
+    /*color: #3a4d5c;*/
+    color: #000000;
     font-family: 'Open Sans';
 }
 
@@ -18,13 +19,15 @@
     font-size: 32px;
     font-weight: 300;
     line-height: 1;
-    color: #ff8800;
+    /*color: #ff8800;*/
+    color: #3f3f3f;
     border-top: 1px solid #ebebeb;
 }
 
 .menu__btn,
 .menu__list {
-    background: #3a4d5c;
+    /*background: #3a4d5c; */
+    background: #000000;
 }
 
 .menu__btn {
@@ -43,7 +46,8 @@
 
 .footer {
     color: #ffffff;
-    background: #3a4d5c;
+    /*background: #3a4d5c;*/
+    background: #000000;
     border-top: 3px solid #999;
 }
 
@@ -98,3 +102,9 @@ textarea {
   ::-ms-input-placeholder { /* Microsoft Edge */
    color: #3a4d5c;
   }
+
+
+/* Logo changed to grayscale */
+.logo__img {
+    filter: grayscale(100%);
+}
