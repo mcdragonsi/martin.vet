@@ -35,8 +35,8 @@ googleAnalytics = "UA-90315878-1" # Enable Google Analytics by entering your tra
 
 [Params.style.vars]
   #highlightColor = "#e22d30" # Override highlight color
-  # highlightColor = "#d38412" # Override highlight color THIS is LIVE
-  highlightColor = "#3f3f3f" # Override highlight color - changed for HM 2022
+  highlightColor = "#d38412" # Override highlight color THIS is LIVE
+  # highlightColor = "#3f3f3f" # Override highlight color - changed for HM 2022
   # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
   # Take care of different quotes OR escaping symbols in these params if necessary
   fontFamilyPrimary = "Roboto, 'Open Sans', Arial"
