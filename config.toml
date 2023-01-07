@@ -98,6 +98,8 @@ googleAnalytics = "UA-90315878-1" # Enable Google Analytics by entering your tra
   url = "https://www.vetsurgeon.org/members/mcdragon"
   icon = "svg/author.svg" # Optional. Path relative to "layouts/partials"
 
+[markup.goldmark.renderer]
+unsafe= true
 
 [menu]
 
