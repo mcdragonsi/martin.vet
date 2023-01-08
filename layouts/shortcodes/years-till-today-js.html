@@ -1,0 +1,13 @@
+<script>
+    // Get the current year
+    var currentYear = new Date().getFullYear();
+
+    // Get all elements with the "date" class
+    var dateElements = document.getElementsByClassName("date");
+
+    // Loop through each date element
+    for (var i = 0; i < dateElements.length; i++) {
+    // Replace the date with the number of years since it occurred
+    dateElements[i].innerHTML = currentYear - parseInt(dateElements[i].innerHTML);
+    }
+</script>
