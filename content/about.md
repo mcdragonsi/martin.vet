@@ -12,8 +12,8 @@ My name is **Martin McDowell DrVetMed ISFM AdvCertFB MRCVS** and I am a fully qu
 {{< /rawhtml >}}
 
 * RCVS No. [6441157](https://findavet.rcvs.org.uk/find-a-vet-surgeon/martin-mcdowell-6441157/)
-* Professional career: {{< rawhtml >}}<span class="date">1998</span>{{< /rawhtml >}} years
-  * Practicing as a veterinary surgeon: {{< rawhtml >}}<span class="date">2005</span>{{< /rawhtml >}} years
+* Professional career: {{% years-till-today2 1998 %}} years
+  * Practicing as a veterinary surgeon: {{% years-till-today2 2005 %}} years
   * Working in Pharma/Gov/IT: 7 years
 * Skill areas covered: small (companion) animals both in the UK and abroad
 * I have gained the **ISFM Advanced Certificate in Feline Behaviour (ISFM AdvCertFB)** with distinction in November 2019.
@@ -32,7 +32,7 @@ Full CV available on request.
 * **for parcels and courier deliveries:** Unit 108689, Courier Point, 13 Freeland Park, Wareham Road, Poole, Dorset, BH16 6FH, UK
 
 ## Associated locum agency
-If you would like to book me through a more established locum agency, please contact *Trisha Smith* at [Vets2Go](https://www.vets2go.co.uk/) (01280 706679). She has known me since I started locuming {{< rawhtml >}}<span class="date">2012</span>{{< /rawhtml >}} years ago in 2012 and she has one of the most extensive experiences in locum agency work. Extra agency fees apply.
+If you would like to book me through a more established locum agency, please contact *Trisha Smith* at [Vets2Go](https://www.vets2go.co.uk/) (01280 706679). She has known me since I started locuming {{% years-till-today2 2012 %}} years ago in 2012 and she has one of the most extensive experiences in locum agency work. Extra agency fees apply.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6a01ee8f-ce8f-46ee-9e81-9ce11e00c42a/deploy-status)](https://app.netlify.com/sites/martinvet/deploys)
 
