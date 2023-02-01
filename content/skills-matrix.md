@@ -45,8 +45,9 @@ toc: true # Enable Table of Contents
 | Bitch spay                                                                                                                             | 4 |
 | Rabbit castrate                                                                                                                        | 4 |
 | Rabbit spay                                                                                                                            | 4 |
-| Ferret spay                                                                                                                            | 4 |
-| Ferret castrate                                                                                                                        | 4 |
+| Ferret spay                                                                                                                            | 3 |
+| Ferret castrate                                                                                                                        | 3 |
+| Rat castrate                                                                                                                           | 3 |
 
 ## Advanced surgery
 | Advanced surgery                                                                                                                       |   |
@@ -59,6 +60,8 @@ toc: true # Enable Table of Contents
 | Oral surgery / dental extractions                                                                                                      | 4 |
 | GDV operation                                                                                                                          | 3 |
 | Eye enucleation  / exenteration                                                                                                        | 4 |
+| Meibomi gland tumour removal                                                                                                           | 4 |
+| Cherry eye (Morgan)                                                                                                                    | 3 |
 | Using Vicryl, Monocryl, PDS                                                                                                            | 4 |
 | Using catgut                                                                                                                           | 1 |
 | Caesarean section                                                                                                                      | 4 |
@@ -70,7 +73,7 @@ toc: true # Enable Table of Contents
 | Anal gland flush                                                                                                                       | 4 |
 | Anal gland removal                                                                                                                     | 1 |
 | BOAS surgery                                                                                                                           | 1 |
-| Mandibular symphysis fracture repair in cats                                                                                           | 3 |
+| Mandibular symphysis fracture repair in cats                                                                                           | 2 |
 | Placement of oesophagostomy feeding tubes in cats                                                                                      | 3 |
 
 ## Therapeutic techniques
