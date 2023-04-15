@@ -1,0 +1,84 @@
+<script>
+    const cookies = document.cookie.split(';');
+    const trackingCookies = [];
+    const analyticsCookies = [];
+    const marketingCookies = [];
+  
+    for (let i = 0; i < cookies.length; i++) {
+      const cookie = cookies[i].trim();
+      if (cookie.startsWith('tracking_')) {
+        trackingCookies.push(cookie);
+      } else if (cookie.startsWith('analytics_')) {
+        analyticsCookies.push(cookie);
+      } else if (cookie.startsWith('marketing_')) {
+        marketingCookies.push(cookie);
+      }
+    }
+  
+    if (trackingCookies.length > 0) {
+      document.write('<strong>Tracking technologies used:</strong><br>');
+      for (let i = 0; i < trackingCookies.length; i++) {
+        const cookieName = trackingCookies[i].split('=')[0];
+        const cookieValue = trackingCookies[i].split('=')[1];
+        const cookieCompany = getCookieCompany(cookieName);
+        document.write(`- ${cookieCompany}: ${cookieName}=${cookieValue}<br>`);
+      }
+    } else {
+      document.write('No tracking technologies are currently enabled.<br>');
+    }
+  
+    if (analyticsCookies.length > 0) {
+      document.write('<br><strong>Analytics technologies used:</strong><br>');
+      for (let i = 0; i < analyticsCookies.length; i++) {
+        const cookieName = analyticsCookies[i].split('=')[0];
+        const cookieValue = analyticsCookies[i].split('=')[1];
+        const cookieCompany = getCookieCompany(cookieName);
+        document.write(`- ${cookieCompany}: ${cookieName}=${cookieValue}<br>`);
+      }
+    } else {
+      document.write('No analytics technologies are currently enabled.<br>');
+    }
+  
+    if (marketingCookies.length > 0) {
+      document.write('<br><strong>Marketing technologies used:</strong><br>');
+      for (let i = 0; i < marketingCookies.length; i++) {
+        const cookieName = marketingCookies[i].split('=')[0];
+        const cookieValue = marketingCookies[i].split('=')[1];
+        const cookieCompany = getCookieCompany(cookieName);
+        document.write(`- ${cookieCompany}: ${cookieName}=${cookieValue}<br>`);
+      }
+    } else {
+      document.write('No marketing technologies are currently enabled.<br>');
+    }
+  
+    function getCookieCompany(cookieName) {
+      if (cookieName.startsWith('tracking_')) {
+        if (cookieName === 'tracking_google') {
+          return 'Google';
+        } else if (cookieName === 'tracking_facebook') {
+          return 'Facebook';
+        } else if (cookieName === 'tracking_statcounter') {
+          return 'Statcounter';
+        } else {
+          return 'Unknown company';
+        }
+      } else if (cookieName.startsWith('analytics_')) {
+        if (cookieName === 'analytics_google') {
+          return 'Google';
+        } else {
+          return 'Unknown company';
+        }
+      } else if (cookieName.startsWith('marketing_')) {
+        if (cookieName === 'marketing_google') {
+          return 'Google';
+        } else if (cookieName === 'marketing_facebook') {
+          return 'Facebook';
+        } else {
+          return 'Unknown company';
+        }
+      } else {
+        return 'Unknown company';
+      }
+    }
+  </script>
+  
