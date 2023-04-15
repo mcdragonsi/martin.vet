@@ -11,7 +11,7 @@ toc: true # Enable Table of Contents
 | -------------------------------------------------------------------------------------------------------------------------------------- | - |
 | Medical work up hepatic/renal cases                                                                                                    | 4 |
 | 15 minute consults                                                                                                                     | 4 |
-| 10 minute consults                                                                                                                     | 4 |
+| 10 minute consults                                                                                                                     | 3 |
 | 5 minute consults                                                                                                                      | 1 |
 | Diagnostic and monitoring techniques                                                                                                   | 4 |
 | Ultrasound scans (abdomen)                                                                                                             | 4 |
@@ -60,7 +60,7 @@ toc: true # Enable Table of Contents
 | Oral surgery / dental extractions                                                                                                      | 4 |
 | GDV operation                                                                                                                          | 3 |
 | Eye enucleation  / exenteration                                                                                                        | 4 |
-| Meibomi gland tumour removal                                                                                                           | 4 |
+| Eyelid tumour removal                                                                                                                  | 4 |
 | Cherry eye (Morgan)                                                                                                                    | 3 |
 | Using Vicryl, Monocryl, PDS                                                                                                            | 4 |
 | Using catgut                                                                                                                           | 1 |
