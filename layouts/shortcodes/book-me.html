@@ -1,3 +1,20 @@
+<!-- Event snippet for Contact us via  website conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+    function gtag_report_conversion(url) {
+      var callback = function () {
+        if (typeof(url) != 'undefined') {
+          window.location = url;
+        }
+      };
+      gtag('event', 'conversion', {
+          'send_to': 'AW-988104989/SNNZCL2cs5gYEJ2SldcD',
+          'event_callback': callback
+      });
+      return false;
+    }
+</script>
+    
 <form name="book-me" method="POST" data-netlify="true">
     <p>
         <input type="text" name="name" placeholder="Your name.." / required>
@@ -18,7 +35,7 @@
         <textarea name="message" placeholder="Your message.."></textarea>
     </p>
     <p>
-        <input type="submit" value="Send">
+        <input type="submit" value="Send" onclick="gtag_report_conversion()">
     </p>    
 </form>
   

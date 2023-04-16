@@ -131,6 +131,22 @@ if (!doNotTrack) {
 		</header>
 		<div class="content post__content clearfix">
 			<p>Send an e-mail to <a href="mailto:me@martin.vet">me@martin.vet</a> or fill in the form below. Please note <strong>I am not a veterinary practice</strong>. The contact form is intended only for veterinary practices looking for locum cover. Messages from the general public <strong>cannot be replied to</strong>.
+
+<script>
+    function gtag_report_conversion(url) {
+      var callback = function () {
+        if (typeof(url) != 'undefined') {
+          window.location = url;
+        }
+      };
+      gtag('event', 'conversion', {
+          'send_to': 'AW-988104989/SNNZCL2cs5gYEJ2SldcD',
+          'event_callback': callback
+      });
+      return false;
+    }
+</script>
+    
 <form name="book-me" method="POST" data-netlify="true">
     <p>
         <input type="text" name="name" placeholder="Your name.." / required>
@@ -151,7 +167,7 @@ if (!doNotTrack) {
         <textarea name="message" placeholder="Your message.."></textarea>
     </p>
     <p>
-        <input type="submit" value="Send">
+        <input type="submit" value="Send" onclick="gtag_report_conversion()">
     </p>    
 </form>
   
