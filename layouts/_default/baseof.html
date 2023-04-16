@@ -43,8 +43,10 @@
 		{{ template "_internal/google_analytics_async.html" . }}
 		{{- end }}
 	{{- end }}
+	{{ partial "google-tag-head.html" . }}
 </head>
 <body class="body">
+	{{ partial "google-tag-body.html" . }}
 	<div class="container container--outer">
 		{{ partial "header" . }}
 		<div class="wrapper flex">
