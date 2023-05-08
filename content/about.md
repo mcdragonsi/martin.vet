@@ -20,8 +20,8 @@ My name is **Martin McDowell DrVetMed ISFM AdvCertFB MRCVS** and I am a fully qu
 * I was involved with the WVS in January 2015 with veterinary voluntary work at the [Carriacou Animal Hospital](https://blog.mcdowell.si/categories/carriacou-2015/).
 
 ## Previous full-time veterinary employment
-* [Bromyard Vets](https://bromyardvets.co.uk/) December 2019 - August 2022
-* [Fenton Vets](https://fentonvets.co.uk/) April 2007 - December 2011
+* **Bromyard Vets**, Bromyard, *December 2019 - August 2022*
+* **Fenton Vets**, Haverfordwest, *April 2007 - December 2011*
 
 Full CV available on request. 
 
