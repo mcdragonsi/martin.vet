@@ -48,6 +48,7 @@ toc: true # Enable Table of Contents
 | Ferret spay                                                                                                                            | 3 |
 | Ferret castrate                                                                                                                        | 3 |
 | Rat castrate                                                                                                                           | 3 |
+| Tail docking of puppies                                                                                                                | 1 |
 
 ## Advanced surgery
 | Advanced surgery                                                                                                                       |   |
@@ -61,9 +62,9 @@ toc: true # Enable Table of Contents
 | GDV operation                                                                                                                          | 3 |
 | Eye enucleation  / exenteration                                                                                                        | 4 |
 | Eyelid tumour removal                                                                                                                  | 4 |
-| Cherry eye (Morgan)                                                                                                                    | 3 |
+| Cherry eye (modified Morgan pocket)                                                                                                    | 4 |
 | Using Vicryl, Monocryl, PDS                                                                                                            | 4 |
-| Using catgut                                                                                                                           | 1 |
+| Using catgut                                                                                                                           | 3 |
 | Caesarean section                                                                                                                      | 4 |
 | Exploratory laparotomy for acute abdominal disease                                                                                     | 4 |
 | Splenectomy                                                                                                                            | 4 |
@@ -81,10 +82,10 @@ toc: true # Enable Table of Contents
 | -------------------------------------------------------------------------------------------------------------------------------------- | - |
 | Use of crystalloid fluid bolus for treatment of hypovolaemia                                                                           | 4 |
 | Use of crystalloid fluids for maintenance and replacement of ongoing losses                                                            | 4 |
-| Administration of transfusion products (whole blood/packed cells/fresh frozen plasma)                                                  | 2 |
+| Administration of transfusion products (whole blood/packed cells/fresh frozen plasma)                                                  | 3 |
 | Analgesia with pure opioid agonists                                                                                                    | 4 |
-| Analgesia with constant rate infusions (CRIs)                                                                                          | 2 |
-| Management of refractory seizures                                                                                                      | 3 |
+| Analgesia with constant rate infusions (CRIs)                                                                                          | 3 |
+| Management of refractory seizures                                                                                                      | 4 |
 
 ## Legend
 | Legend                                                                                                                                 |   |
