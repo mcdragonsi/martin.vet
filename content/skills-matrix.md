@@ -74,7 +74,7 @@ toc: true # Enable Table of Contents
 | Anal gland flush                                                                                                                       | 4 |
 | Anal gland removal                                                                                                                     | 1 |
 | BOAS surgery                                                                                                                           | 1 |
-| Mandibular symphysis fracture repair in cats                                                                                           | 2 |
+| Mandibular symphysis fracture repair in cats                                                                                           | 4 |
 | Placement of oesophagostomy feeding tubes in cats                                                                                      | 3 |
 
 ## Therapeutic techniques
@@ -93,5 +93,5 @@ toc: true # Enable Table of Contents
 | I feel very comfortable with this technique/procedure and have performed many times                                                    | 4 |
 | I feel comfortable with this technique/procedure and have performed occasionally                                                       | 3 |
 | I have limited direct experience of this technique/procedure but would feel competent to use/perform without further specific training | 2 |
-| I do not feel comfortable with this technique/procedure and would require further support/training before performing alone             | 1 |
+| I do not feel comfortable with this technique/procedure and/or would require further support/training before performing alone          | 1 |
 

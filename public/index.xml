@@ -1,88 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Martin McDowell - locum vet on Martin McDowell vet locum</title>
+    <title>Martin McDowell - senior locum vet on Martin McDowell senior vet locum</title>
     <link>https://martin.vet/</link>
-    <description>Recent content in Martin McDowell - locum vet on Martin McDowell vet locum</description>
+    <description>Recent content in Martin McDowell - senior locum vet on Martin McDowell senior vet locum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://martin.vet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://martin.vet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About cookies and tracking on this website</title>
       <link>https://martin.vet/cookies/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://martin.vet/cookies/</guid>
       <description>I decided a while ago I will resist that temptation to put the cookie consent on the website as it has proven to be completely unusable, unfriendly and most visitors see it as spam. If you want to see which tracking is on my site here it is. Its basically just your bog standard Google tracking for the purposes of seeing who comes to visit the website. It also has a Statcounter tracker that helps me see the same thing.</description>
     </item>
-    
     <item>
       <title>Payment Terms and Conditions</title>
       <link>https://martin.vet/tc/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://martin.vet/tc/</guid>
       <description>Invoices payable on receipt. Any objections to the invoice must be expressed within 7 days of issuing the invoice. If the invoice is not paid within 14 days, then I will be entitled to charge interest on amounts outstanding beyond 14 days at 8% above the Bank of England&amp;rsquo;s base rate. In addition to the interest a fixed fee in the amount of £40 (for invoices below £1000.00) or £70 (for invoices of £1000 and above) will be added to the late payment charge.</description>
     </item>
-    
-    <item>
-      <title>Test for JS</title>
-      <link>https://martin.vet/test/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://martin.vet/test/</guid>
-      <description>I have been locuming for 2000 years.
-I have 2005 years of experience
-Old way of calculating the year: 18</description>
-    </item>
-    
     <item>
       <title>Skills matrix</title>
       <link>https://martin.vet/skills-matrix/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://martin.vet/skills-matrix/</guid>
-      <description>Basic skills Basic skills Medical work up hepatic/renal cases 4 15 minute consults 4 10 minute consults 3 5 minute consults 1 Diagnostic and monitoring techniques 4 Ultrasound scans (abdomen) 4 Ultrasound scans (thorax) 2 Blood smear evaluation 2 Interpretation of coagulation abnormalities 4 Interpretation of serum electrolytes 4 ECG interpretation 2 Non-invasive blood pressure measurement (Doppler or oscillometric) 4 Full neurological examination and localisation of neurological lesions 4 Emergency medicine Emergency medicine Urethral catheterisation in an obstructed male cat 4 Thoracocentesis 4 Pericardiocentesis 4 Placement of nasal catheter for oxygen delivery 4 Intraosseous access in a paediatric patient 1 Cutdown for peripheral venous access 4 Jugular catheter placement 1 Thoracostomy tube placement 2 Basic cardiopulmonary resuscitation 4 Routine surgery Routine surgery Cat castrate 4 Cat spay 4 Dog castrate 4 Bitch spay 4 Rabbit castrate 4 Rabbit spay 4 Ferret spay 3 Ferret castrate 3 Rat castrate 3 Tail docking of puppies 1 Advanced surgery Advanced surgery Exploratory laparotomy / Coeliotomy 4 Pyometra 4 Cystotomy 4 Enterectomy 4 Lumpectomy 4 Oral surgery / dental extractions 4 GDV operation 3 Eye enucleation / exenteration 4 Eyelid tumour removal 4 Cherry eye (modified Morgan pocket) 4 Using Vicryl, Monocryl, PDS 4 Using catgut 3 Caesarean section 4 Exploratory laparotomy for acute abdominal disease 4 Splenectomy 4 With gastric derotation and gastropexy 3 Enterotomy / enterectomy 4 Repair of diaphragmatic hernia 2 Anal gland flush 4 Anal gland removal 1 BOAS surgery 1 Mandibular symphysis fracture repair in cats 2 Placement of oesophagostomy feeding tubes in cats 3 Therapeutic techniques Therapeutic techniques Use of crystalloid fluid bolus for treatment of hypovolaemia 4 Use of crystalloid fluids for maintenance and replacement of ongoing losses 4 Administration of transfusion products (whole blood/packed cells/fresh frozen plasma) 3 Analgesia with pure opioid agonists 4 Analgesia with constant rate infusions (CRIs) 3 Management of refractory seizures 4 Legend Legend I feel very comfortable with this technique/procedure and have performed many times 4 I feel comfortable with this technique/procedure and have performed occasionally 3 I have limited direct experience of this technique/procedure but would feel competent to use/perform without further specific training 2 I do not feel comfortable with this technique/procedure and would require further support/training before performing alone 1 </description>
+      <description>Basic skills Basic skills Medical work up hepatic/renal cases 4 15 minute consults 4 10 minute consults 3 5 minute consults 1 Diagnostic and monitoring techniques 4 Ultrasound scans (abdomen) 4 Ultrasound scans (thorax) 2 Blood smear evaluation 2 Interpretation of coagulation abnormalities 4 Interpretation of serum electrolytes 4 ECG interpretation 2 Non-invasive blood pressure measurement (Doppler or oscillometric) 4 Full neurological examination and localisation of neurological lesions 4 Emergency medicine Emergency medicine Urethral catheterisation in an obstructed male cat 4 Thoracocentesis 4 Pericardiocentesis 4 Placement of nasal catheter for oxygen delivery 4 Intraosseous access in a paediatric patient 1 Cutdown for peripheral venous access 4 Jugular catheter placement 1 Thoracostomy tube placement 2 Basic cardiopulmonary resuscitation 4 Routine surgery Routine surgery Cat castrate 4 Cat spay 4 Dog castrate 4 Bitch spay 4 Rabbit castrate 4 Rabbit spay 4 Ferret spay 3 Ferret castrate 3 Rat castrate 3 Tail docking of puppies 1 Advanced surgery Advanced surgery Exploratory laparotomy / Coeliotomy 4 Pyometra 4 Cystotomy 4 Enterectomy 4 Lumpectomy 4 Oral surgery / dental extractions 4 GDV operation 3 Eye enucleation / exenteration 4 Eyelid tumour removal 4 Cherry eye (modified Morgan pocket) 4 Using Vicryl, Monocryl, PDS 4 Using catgut 3 Caesarean section 4 Exploratory laparotomy for acute abdominal disease 4 Splenectomy 4 With gastric derotation and gastropexy 3 Enterotomy / enterectomy 4 Repair of diaphragmatic hernia 2 Anal gland flush 4 Anal gland removal 1 BOAS surgery 1 Mandibular symphysis fracture repair in cats 4 Placement of oesophagostomy feeding tubes in cats 3 Therapeutic techniques Therapeutic techniques Use of crystalloid fluid bolus for treatment of hypovolaemia 4 Use of crystalloid fluids for maintenance and replacement of ongoing losses 4 Administration of transfusion products (whole blood/packed cells/fresh frozen plasma) 3 Analgesia with pure opioid agonists 4 Analgesia with constant rate infusions (CRIs) 3 Management of refractory seizures 4 Legend Legend I feel very comfortable with this technique/procedure and have performed many times 4 I feel comfortable with this technique/procedure and have performed occasionally 3 I have limited direct experience of this technique/procedure but would feel competent to use/perform without further specific training 2 I do not feel comfortable with this technique/procedure and/or would require further support/training before performing alone 1 </description>
     </item>
-    
-    <item>
-      <title>My Second Post</title>
-      <link>https://martin.vet/posts/my-second-post/</link>
-      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://martin.vet/posts/my-second-post/</guid>
-      <description>#My first post.
-Content of my second post goes here.</description>
-    </item>
-    
     <item>
       <title>About me</title>
       <link>https://martin.vet/about/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://martin.vet/about/</guid>
-      <description>My name is Martin McDowell DrVetMed ISFM AdvCertFB MRCVS and I am a fully qualified veterinary surgeon in Herefordshire, UK.
-RCVS No. 6441157 Professional career: 1998 years Practicing as a veterinary surgeon: 2005 years Working in Pharma/Gov/IT: 7 years Skill areas covered: small (companion) animals both in the UK and abroad I have gained the ISFM Advanced Certificate in Feline Behaviour (ISFM AdvCertFB) with distinction in November 2019. I was involved with the WVS in January 2015 with veterinary voluntary work at the Carriacou Animal Hospital.</description>
+      <description>My name is Martin McDowell DrVetMed ISFM AdvCertFB MRCVS and I am a fully qualified senor veterinary surgeon in Herefordshire, UK.&#xA;RCVS No. 6441157 Professional career: 1998 years Practicing as a veterinary surgeon: 2005 years Working in Pharma/Gov/IT: 7 years Skill areas covered: small (companion) animals both in the UK and abroad I have gained the ISFM Advanced Certificate in Feline Behaviour (ISFM AdvCertFB) with distinction in November 2019. I was involved with the WVS in January 2015 with veterinary voluntary work at the Carriacou Animal Hospital.</description>
     </item>
-    
     <item>
       <title>Book me</title>
       <link>https://martin.vet/book-me/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://martin.vet/book-me/</guid>
       <description>Send an e-mail to me@martin.vet or fill in the form below. Please note I am not a veterinary practice. The contact form is intended only for veterinary practices looking for locum cover. Messages from the general public cannot be replied to. </description>
     </item>
-    
     <item>
       <title>My First Post</title>
       <link>https://martin.vet/posts/my-first-post/</link>
       <pubDate>Sun, 03 Oct 2021 18:23:59 +0100</pubDate>
-      
       <guid>https://martin.vet/posts/my-first-post/</guid>
-      <description>#My first post.
-Content of my first post goes here.</description>
+      <description>#My first post.&#xA;Content of my first post goes here.</description>
     </item>
-    
   </channel>
 </rss>

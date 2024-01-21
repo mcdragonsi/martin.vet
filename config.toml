@@ -1,12 +1,12 @@
 baseURL = 'https://martin.vet/'
 languageCode = 'en-us'
-title = 'Martin McDowell vet locum'
+title = 'Martin McDowell senior vet locum'
 theme = "mainroad"
 googleAnalytics = "UA-90315878-1" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
   name = "Martin McDowell MRCVS"
-  bio = "Dr Martin McDowell DrVetMed ISFM AdvCertFB MRCVS - Locum veterinary surgeon for companion animals. Graduated vet school in 1998, worked in veterinary and non-veterinary industries. Vet work including permanent employment, locuming and clinical directorship."
+  bio = "Dr Martin McDowell DrVetMed ISFM AdvCertFB MRCVS - Senior locum veterinary surgeon for companion animals. Graduated vet school in 1998, worked in veterinary and non-veterinary industries. Vet work including permanent employment, locuming and clinical directorship."
   avatar = "img/Martin_on_Carriacou-300x300.jpg"
 
 [Params]
@@ -45,7 +45,7 @@ googleAnalytics = "UA-90315878-1" # Enable Google Analytics by entering your tra
 [Params.logo]
   image = "img/martin-vet-square1.ai.svg" # Logo image. Path relative to "static"
   title = "Martin McDowell MRCVS" # Logo title, otherwise will use site title
-  subtitle = "Small animal locum vet - Martin.vet" # Logo subtitle
+  subtitle = "Senior small animal locum vet - Martin.vet" # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
