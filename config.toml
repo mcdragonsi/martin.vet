@@ -45,7 +45,7 @@ googleAnalytics = "UA-90315878-1" # Enable Google Analytics by entering your tra
 [Params.logo]
   image = "img/martin-vet-square1.ai.svg" # Logo image. Path relative to "static"
   title = "Martin McDowell MRCVS" # Logo title, otherwise will use site title
-  subtitle = "Senior small animal locum vet - Martin.vet" # Logo subtitle
+  subtitle = "Senior small animal locum vet" # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
