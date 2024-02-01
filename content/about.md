@@ -16,6 +16,7 @@ My name is **Martin McDowell DrVetMed ISFM AdvCertFB MRCVS** and I am a fully qu
   * Practicing as a veterinary surgeon: {{% years-till-today2 2005 %}} years
   * Working in Pharma/Gov/IT: 7 years
 * Skill areas covered: small (companion) animals both in the UK and abroad
+* Standard fee: £550 per day (9am to 6pm) or £70 per hour
 * I have gained the **ISFM Advanced Certificate in Feline Behaviour (ISFM AdvCertFB)** with distinction in November 2019.
 * I was involved with the WVS in January 2015 with veterinary voluntary work at the [Carriacou Animal Hospital](https://blog.mcdowell.si/categories/carriacou-2015/).
 
