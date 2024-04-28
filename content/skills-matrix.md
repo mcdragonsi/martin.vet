@@ -58,6 +58,7 @@ toc: true # Enable Table of Contents
 | Cystotomy                                                                                                                              | 4 |
 | Enterectomy                                                                                                                            | 4 |
 | Lumpectomy                                                                                                                             | 4 |
+| MCT treatment with intramural tigilanol tiglate                                                                                        | 4 |
 | Oral surgery / dental extractions                                                                                                      | 4 |
 | GDV operation                                                                                                                          | 3 |
 | Eye enucleation  / exenteration                                                                                                        | 4 |
