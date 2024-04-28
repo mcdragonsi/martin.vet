@@ -2,7 +2,11 @@ baseURL = 'https://martin.vet/'
 languageCode = 'en-us'
 title = 'Martin McDowell senior vet locum'
 theme = "mainroad"
-googleAnalytics = "UA-90315878-1" # Enable Google Analytics by entering your tracking id
+
+[services.disqus]
+  shortname = "" # Enable Disqus by entering your Disqus shortname
+[services.googleAnalytics]
+  ID = "UA-90315878-1" # Enable Google Analytics by entering your tracking ID
 
 [Author] # Used in authorbox
   name = "Martin McDowell MRCVS"
